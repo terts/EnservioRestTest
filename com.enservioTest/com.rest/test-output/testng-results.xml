@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="6995" started-at="2017-10-03T01:22:29Z" finished-at="2017-10-03T01:22:36Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="6995" started-at="2017-10-03T01:22:29Z" finished-at="2017-10-03T01:22:36Z">
+      <class name="com.enservioTest.com.rest.RestTest">
+        <test-method status="PASS" signature="setBaseUri()[pri:0, instance:com.enservioTest.com.rest.RestTest@5622fdf]" name="setBaseUri" is-config="true" duration-ms="725" started-at="2017-10-02T21:22:29Z" finished-at="2017-10-02T21:22:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setBaseUri -->
+        <test-method status="PASS" signature="checkCorrectNumberOfCategories()[pri:0, instance:com.enservioTest.com.rest.RestTest@5622fdf]" name="checkCorrectNumberOfCategories" duration-ms="3932" started-at="2017-10-02T21:22:30Z" finished-at="2017-10-02T21:22:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkCorrectNumberOfCategories -->
+        <test-method status="PASS" signature="checkCorrectNumberOfQuestions()[pri:0, instance:com.enservioTest.com.rest.RestTest@5622fdf]" name="checkCorrectNumberOfQuestions" duration-ms="1818" started-at="2017-10-02T21:22:34Z" finished-at="2017-10-02T21:22:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkCorrectNumberOfQuestions -->
+        <test-method status="PASS" signature="verifyCapital()[pri:0, instance:com.enservioTest.com.rest.RestTest@5622fdf]" name="verifyCapital" duration-ms="482" started-at="2017-10-02T21:22:36Z" finished-at="2017-10-02T21:22:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyCapital -->
+      </class> <!-- com.enservioTest.com.rest.RestTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Simple Logger Suite">
+    <listeners>
+        <listener class-name="CustomListener" />
+    </listeners>
+
+    <test name="Terri Mitchell API tests for Enservio">
+        <classes>
+            <class name="RestTest" />
+        </classes>
+    </test>
+</suite>
